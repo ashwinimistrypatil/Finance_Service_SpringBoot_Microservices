@@ -91,7 +91,7 @@ Config Server
 Distributed Tracing (Zipkin)
 
 Author:
-Kishore Kumar R
+Ashwini Mistry
 
 Notes:
   This project demonstrates:
